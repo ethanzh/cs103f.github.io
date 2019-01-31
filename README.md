@@ -2,4 +2,4 @@
 
 ## Blog Post 2
 This is a test for the website
-![](./group_picture.JPG =300x)
+<img src="group_picture.JPG" width="200"/>
