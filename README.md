@@ -1,4 +1,4 @@
-# cs103f.github.io
+# CS103F Spring 2019: RUME
 
 ## Blog Post 2
 This is a test for the website
