@@ -53,5 +53,6 @@ https://medium.com/@lilymadigan/we-need-to-talk-about-enthusiastic-consent-e23bd
 RAINN. "What is Consent?", rainn.org.
 
 ### Group Photo
-<img src="group_picture.JPG" width="200">
+<img src="group_picture.JPG" width="400">
+<br />
 Members: Mikayla, Randy, Ethan, Uma
