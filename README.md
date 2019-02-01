@@ -38,6 +38,7 @@ the stigma of coming out.
 
 
 Sources:
+<br />
 Beck, Julie. “When Pop Culture Sells Dangerous Myths About Romance” https://www.theatlantic.com/entertainment/archive/2018/01/when-pop-culture-sells-dangerous-myths-about-romance/549749/
 Dewan, Sheila (18 Sept. 2018). Why Women Can Take Years to Come Forward With Sexual Assault Allegations. Retrieved from: https://www.nytimes.com/2018/09/18/us/kavanaugh-christine-blasey-ford.html
 
@@ -51,3 +52,6 @@ https://medium.com/@lilymadigan/we-need-to-talk-about-enthusiastic-consent-e23bd
 
 RAINN. "What is Consent?", rainn.org.
 
+### Group Photo
+<img src="group_picture.JPG" width="200">
+Members: Mikayla, Randy, Ethan, Uma
