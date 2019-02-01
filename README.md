@@ -2,7 +2,7 @@
 
 ## Blog Post 2
 
-	Sexual consent is an agreement between participants to sexual activity and to
+Sexual consent is an agreement between participants to sexual activity and to
 everything that happens during that sexual encounter. However, there may be situations
 where one of the participants is uncomfortable with saying “no” due to pressure, 
 manipulation, or fear. Consent is also not constant and can always be withdrawn (Madigan). 
@@ -11,7 +11,7 @@ another to make sure they are comfortable with everything happening (RAINN). It 
 very important to acknowledge each other’s signals and body language in addition to 
 verbal communication in order to identify enthusiastic consent. 
 
-        In regards to a sexual assault survivor who hasn’t come forward, many experts 
+In regards to a sexual assault survivor who hasn’t come forward, many experts 
 state that if the perpetrator is trusted by the victim, the victim may take years 
 to realize what happened to them (Dewan). Based on virtue ethics, the victim believes
  the good the assaulter demonstrated throughout their lifetime outweighs the assaulter's
@@ -27,7 +27,7 @@ are usually rewarded. While it is important to hold those who ignore the importa
 enthusiastic consent accountable, it is also arguably even more important to change 
 the perception and portrayal of consent in popular culture.
 
-        Technology has both helped and hurt the #MeToo movement. Apps like Good2Go
+Technology has both helped and hurt the #MeToo movement. Apps like Good2Go
 aim to digitize the consent process but are “unlikely to aid a real victim” (Hess). 
 We react with full support for the victims. From a utilitarian approach, believing
  the victims creates the greatest amount of good for those affected, which we believe 
